@@ -1,3 +1,4 @@
 wait (0)
 
-print("script is not done yet.")
+print("auth script not found.")
+print(" Join https://discord.gg/HUpcnhZHEb for updates.")
